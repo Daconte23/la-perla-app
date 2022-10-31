@@ -377,7 +377,7 @@
     width: 300px;
 }
 
-footer{
+.footer{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -391,8 +391,8 @@ footer{
     font-size: 15px;
 }
 
-footer .perla{
-    width: 500px;
+.footer .perla{
+    width: 400px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -400,18 +400,52 @@ footer .perla{
     color: #000000;
 }
 
-footer .logo-f img{
+.footer .logo-f img{
     width: 200px;
     margin-bottom: 20px;
 }    
 
-footer .iconos img{
+.footer .iconos img{
     width: 15px;
 }
 
-footer .descargar img{
+.footer .descargar img{
     width: 130px;
 }
+
+.footer .perla h4{
+    margin-bottom: 30px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.footer .perla p{
+    margin: 10px 0px;
+}
+
+.final-footer{
+    padding: 0px 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    background-color: #00C3E4;
+}
+
+.final-footer img{
+    width: 40%;
+    filter: brightness(80%);
+}
+
+.redes{
+    padding: 40px 0px;
+}
+
+.redes img{
+    width: 25px;
+}
+
+
+
 
 
 
