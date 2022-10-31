@@ -50,12 +50,14 @@
     display: flex;
     justify-content: center;
     gap: 50px;
+    flex-wrap: wrap;
 }
 
 .seccion2{
     display: flex;
     justify-content: center;
     gap: 10px;
+    flex-wrap: wrap;
 }
 
 .hero .morena{
@@ -81,7 +83,6 @@
 .formulario {
     margin-top: -200px;
     background-color: #ffffff;
-    font-family: 'Outfit';
     font-weight: 400;
     padding: 20px;
     border-radius: 5px;
@@ -156,6 +157,7 @@
     display: flex;
     justify-content: space-evenly;
     gap: 50px;
+    flex-wrap: wrap;
 }
 
 .cuerpo span{
@@ -192,8 +194,12 @@
     gap: 100px;
     width: 100%;
     background-color: #E75149;
+    background-image: url(fondo-roza.png);
+    background-size: cover;
+    background-position: center;
     color: #ffffff;
     padding: 50px 0px;
+    flex-wrap: wrap;
 }
 
 .cuerpo2 p, .cuerpo2 h3{
@@ -203,6 +209,8 @@
 
 .cuerpo2 h3{
     margin-top: 50px;
+    font-weight: 600;
+    font-size: 30px;
 }
 
 .secciones2 img{
@@ -214,6 +222,7 @@
     font-size: 20px;
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 .sub p{
@@ -235,6 +244,7 @@
     width: 100%;
     padding:20px 0px;
     margin-top: -20px;
+    flex-wrap: wrap;
 }
 
 .cuerpo3 p{
@@ -251,4 +261,118 @@
     list-style: url(list.svg);
     width: 420px;
     font-size: 15px;
+}
+
+.cuerpo4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:40px;
+    gap: 100px;
+    width: 75%;
+    background-color: #E75149;
+    color: #ffffff;
+    padding: 50px 0px;
+    flex-wrap: wrap;
+}
+
+.cuerpo4 p, .cuerpo4 h3{
+    width: 420px;
+    font-size: 20px;
+}
+
+.cuerpo4 h3{
+    margin-top: 50px;
+    font-weight: 600;
+    font-size: 30px;
+}
+
+.secciones4 img{
+    width: 600px;
+}
+
+
+.cuerpo5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+    gap: 50px;
+    width: 100%;
+    background-color: #00C3E4;
+    background-image: url(fondo-azul.png);
+    background-size: cover;
+    background-position: center;
+    color: #ffffff;
+    padding: 50px 0px;
+    flex-wrap: wrap;
+}
+
+.cuerpo5 h4, .cuerpo5 h3{
+    width: 600px;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.cuerpo5 h3{
+    margin-top: 50px;
+    color: #000000;
+}
+
+.secciones5 img{
+    width: 400px;
+}
+
+
+.form2{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+}
+
+.form2 label{
+    font-size: 15px;
+}
+
+.form2 input{
+    width: 100%;
+    padding: 8px;
+    margin: 0px;
+    border: 0px;
+    border-radius: 5px;
+}
+
+.form2 button{
+    padding: 8px 30px;
+    background: #E75149;
+    border-radius: 5px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    border: 0px;
+    color: #ffffff;
+    width: 40%;
+}
+
+.aliados{
+    padding: 50px;
+}
+
+.aliados img{
+    width: 100px;
+}
+
+.aliados .logos{
+    padding: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 50px;
+}
+
+.aliados .logos img{
+    width: 150px;
+}
+
+.aliados .logos img:nth-child(1){
+    width: 300px;
 }
