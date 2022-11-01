@@ -8,6 +8,10 @@
     font-family: 'Outfit';
 }
 
+html {
+    scroll-behavior: smooth;
+  }
+
 .navegacion{
     width: 100%;
     height: 60px;
@@ -22,7 +26,7 @@
     width: 150px;
 }
 
-.navegacion button{
+.navegacion a{
     padding: 8px 30px;
     background: #E75149;
     border-radius: 5px;
@@ -31,6 +35,7 @@
     font-size: 15px;
     border: 0px;
     color: #ffffff;
+    text-decoration: none;
 }
 
 .hero{
@@ -69,6 +74,30 @@
     margin-top: -200px;
 }
 
+@media(max-width:600px){
+
+    .hero {
+        height: 90vh;
+        
+    }
+
+    .hero .seccion1{
+        gap: 0px;
+    }
+
+    .hero .desbloquea{
+        margin-top: 0px;
+        width: 200px;
+    }
+
+    .hero .morena{
+        width: 150px;
+        margin-bottom: 40px;
+    }
+
+    
+}
+
 #reloj{
     font-weight: 400;
     font-size: 20px;
@@ -78,6 +107,13 @@
     border-radius: 5.26176px;
     padding: 20px;
     height: 70px;
+}
+
+@media(max-width:600px){
+    #reloj{
+        display: none;
+    }
+
 }
 
 .formulario {
@@ -90,6 +126,7 @@
     box-shadow: 6px 6px 30px rgba(0, 0, 0, 0.15);
     padding: 40px;
 }
+
 
 .formulario h1{
     font-size: 15px;
@@ -153,6 +190,15 @@
     margin-top: 10px;
 }
 
+
+@media(max-width:600px){
+    .formulario{
+        margin-top: 0px;
+    }
+    
+}
+
+
 .cuerpo{
     display: flex;
     justify-content: space-evenly;
@@ -186,6 +232,23 @@
     color: #ffffff;
 }
 
+@media(max-width:600px){
+    .cuerpo h3{
+
+        font-size: 20px;
+        margin-top: 550px;
+        
+    }
+
+    .cuerpo p{
+        font-size: 20px;
+    }
+
+    .cuerpo span{
+        width: 100%;
+    }
+}
+
 .cuerpo2{
     display: flex;
     justify-content: center;
@@ -202,20 +265,57 @@
     flex-wrap: wrap;
 }
 
-.cuerpo2 p, .cuerpo2 h3{
-    width: 420px;
-    font-size: 20px;
-}
-
 .cuerpo2 h3{
+    width: 420px;
     margin-top: 50px;
     font-weight: 600;
     font-size: 30px;
 }
 
+.cuerpo2 p{
+    width: 420px;
+    font-size: 20px;
+}
+
+
+
+@media(max-width:600px){
+
+    .cuerpo{
+        width: 100%;
+    }
+
+    .cuerpo2 h3{
+
+        font-size: 25px;
+        width: 100%;
+    
+    }
+
+    .cuerpo2 p{
+        font-size: 15px;
+    }
+    
+}
+
 .secciones2 img{
     width: 400px;
 }
+
+
+@media(max-width:600px){
+
+    
+
+    .secciones2{
+        width: 100%;
+    }
+
+    .secciones2 img{
+        width: 350px;
+    }
+}
+
 
 .sub{
     padding: 50px 0px;
@@ -252,15 +352,35 @@
     font-size: 20px;
 }
 
+@media(max-width:600px){
+    .secciones3 img{
+        width: 100%;
+    }   
+
+    .cuerpo3 p{
+        width: 100%;
+    }
+}
 
 .secciones3 img{
     width: 500px;
 }
 
 .secciones3 .lista{
-    list-style: url(list.svg);
     width: 420px;
     font-size: 15px;
+}
+
+@media(max-width:600px){
+    .secciones3 .lista{
+        width: 100%;
+    }
+}
+
+.lista li {
+    list-style: none;
+    background: url(list.svg) no-repeat left 3px;
+    padding-left: 24px;
 }
 
 .cuerpo4{
@@ -274,11 +394,19 @@
     color: #ffffff;
     padding: 50px 0px;
     flex-wrap: wrap;
+    border-radius: 10px;
 }
+
 
 .cuerpo4 p, .cuerpo4 h3{
     width: 420px;
     font-size: 20px;
+}
+
+@media(max-width:1500px){
+    .cuerpo4 p, .cuerpo4 h3{
+        width: 100%;
+    }
 }
 
 .cuerpo4 h3{
@@ -289,6 +417,29 @@
 
 .secciones4 img{
     width: 600px;
+}
+
+@media(max-width:1500px){
+
+    .cuerpo4{
+        gap: 50px;
+        width: 80%;
+        padding: 20px 0px;
+    }
+
+    .secciones4 img{
+        width: 400px;
+    }
+    
+    .cuerpo4 p, .cuerpo4 h3{
+        width: 400px;
+    }
+}
+
+@media(max-width:1060px){
+    .cuerpo4{
+        width: 430px;
+    }
 }
 
 
@@ -309,7 +460,7 @@
 }
 
 .cuerpo5 h4, .cuerpo5 h3{
-    width: 600px;
+    width: 400px;
     font-size: 30px;
     font-weight: 600;
 }
@@ -319,8 +470,14 @@
     color: #000000;
 }
 
-.secciones5 img{
-    width: 400px;
+
+
+@media(max-width:600px){
+
+    .cuerpo5 h4, .cuerpo5 h3{
+        width: 300px;
+    }
+    
 }
 
 
@@ -367,6 +524,7 @@
     display: flex;
     justify-content: space-evenly;
     gap: 50px;
+    flex-wrap: wrap;
 }
 
 .aliados .logos img{
@@ -391,6 +549,8 @@
     font-size: 15px;
 }
 
+
+
 .footer .perla{
     width: 400px;
     display: flex;
@@ -399,6 +559,14 @@
     align-items: center;
     color: #000000;
 }
+
+@media(max-width:1200px){
+    .footer .perla{
+        width: 300px;
+    }
+}
+
+
 
 .footer .logo-f img{
     width: 200px;
