@@ -1,4 +1,3 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;800&display=swap');
 
 *{
@@ -12,7 +11,7 @@ html {
     scroll-behavior: smooth;
   }
 
-.navegacion{
+  .navegacion{
     width: 100%;
     height: 60px;
     display: flex;
@@ -37,6 +36,12 @@ html {
     color: #ffffff;
     text-decoration: none;
 }
+
+
+
+
+/*SECCIÓN HERO*/
+
 
 .hero{
     width: 100%;
@@ -74,29 +79,8 @@ html {
     margin-top: -200px;
 }
 
-@media(max-width:600px){
 
-    .hero {
-        height: 90vh;
-        
-    }
-
-    .hero .seccion1{
-        gap: 0px;
-    }
-
-    .hero .desbloquea{
-        margin-top: 0px;
-        width: 200px;
-    }
-
-    .hero .morena{
-        width: 150px;
-        margin-bottom: 40px;
-    }
-
-    
-}
+/*RELOJ*/
 
 #reloj{
     font-weight: 400;
@@ -109,12 +93,19 @@ html {
     height: 70px;
 }
 
-@media(max-width:600px){
+
+@media(max-width:960px){
+
     #reloj{
         display: none;
     }
 
 }
+
+
+
+/*FORMULARIO*/
+
 
 .formulario {
     margin-top: -200px;
@@ -125,6 +116,7 @@ html {
     width: 450px;
     box-shadow: 6px 6px 30px rgba(0, 0, 0, 0.15);
     padding: 40px;
+    z-index: 1;
 }
 
 
@@ -176,7 +168,7 @@ html {
     text-decoration: none;
 }
 
-.form button{
+.form .boton{
     padding: 8px 30px;
     background: #E75149;
     border-radius: 5px;
@@ -190,24 +182,74 @@ html {
     margin-top: 10px;
 }
 
+@media(max-width:1000px){
 
-@media(max-width:600px){
+    .hero .morena{
+        width: 200px;
+    }
+    
+    .hero .desbloquea{
+        width: 300px;
+        margin-top: 0px;
+    }
+
     .formulario{
         margin-top: 0px;
     }
-    
+
 }
 
+@media(max-width:960px){
+
+    .formulario{
+        margin-right: 400px;
+    }
+
+}
+
+
+@media(max-width:750px){
+    .formulario{
+        margin-right: 0px;
+    }
+}
+
+
+@media(max-width:600px){
+
+    .hero{
+        gap: 0px;
+    }
+
+    .hero .morena{
+        width: 120px;
+        margin-bottom: 15%;
+    }
+
+    .hero .desbloquea{
+        width: 200px;
+        margin-bottom: 15%;
+    }
+
+}
+
+
+
+/*CUERPO*/
 
 .cuerpo{
     display: flex;
     justify-content: space-evenly;
-    gap: 50px;
     flex-wrap: wrap;
 }
 
 .cuerpo span{
     color: white;
+    display: none;
+}
+
+.cuerpo .uno, .cuerpo .dos{
+    width: 450px;
 }
 
 .cuerpo h3{
@@ -216,7 +258,7 @@ html {
 }
 
 .cuerpo p{
-    width: 350px;
+
     font-size: 20px;
 }
 
@@ -232,29 +274,42 @@ html {
     color: #ffffff;
 }
 
-@media(max-width:600px){
-    .cuerpo h3{
+@media(max-width:960px){
 
-        font-size: 20px;
-        margin-top: 550px;
-        
-    }
+    .cuerpo .uno, .cuerpo .dos{
+        width: 300px;
+    }    
 
-    .cuerpo p{
-        font-size: 20px;
-    }
+}
 
-    .cuerpo span{
+
+@media(max-width:750px){
+    
+    .cuerpo{
+        margin-top: 600px;
         width: 100%;
     }
+
 }
+
+@media(max-width:600px){
+    
+    .cuerpo{
+        margin-top: 540px;
+    }
+
+}
+
+
+/*CUERPO2*/
+
 
 .cuerpo2{
     display: flex;
     justify-content: center;
     align-items: center;
     margin-top: 150px;
-    gap: 100px;
+    gap: 20px;
     width: 100%;
     background-color: #E75149;
     background-image: url(fondo-roza.png);
@@ -265,60 +320,40 @@ html {
     flex-wrap: wrap;
 }
 
+.cuerpo2 .secciones2{
+    width: 500px;
+}
+
 .cuerpo2 h3{
-    width: 420px;
     margin-top: 50px;
     font-weight: 600;
     font-size: 30px;
 }
 
 .cuerpo2 p{
-    width: 420px;
     font-size: 20px;
 }
 
-
-
 @media(max-width:600px){
-
-    .cuerpo{
-        width: 100%;
+    .cuerpo2 .secciones2{
+        width: 300px;
     }
 
     .cuerpo2 h3{
-
         font-size: 25px;
-        width: 100%;
-    
     }
 
-    .cuerpo2 p{
-        font-size: 15px;
+    .cuerpo2 iframe{
+        width: 300px;
+        height: 200px;
     }
     
 }
 
-.secciones2 img{
-    width: 400px;
-}
-
-
-@media(max-width:600px){
-
-    
-
-    .secciones2{
-        width: 100%;
-    }
-
-    .secciones2 img{
-        width: 350px;
-    }
-}
-
+/*SUB*/
 
 .sub{
-    padding: 50px 0px;
+    padding: 50px 50px;
     font-size: 20px;
     display: flex;
     justify-content: center;
@@ -333,6 +368,9 @@ html {
     text-decoration: none;
     color: #00DAFF;
 }
+
+
+/*CUERPO 3*/
 
 
 .cuerpo3{
@@ -352,16 +390,6 @@ html {
     font-size: 20px;
 }
 
-@media(max-width:600px){
-    .secciones3 img{
-        width: 100%;
-    }   
-
-    .cuerpo3 p{
-        width: 100%;
-    }
-}
-
 .secciones3 img{
     width: 500px;
 }
@@ -371,42 +399,49 @@ html {
     font-size: 15px;
 }
 
-@media(max-width:600px){
-    .secciones3 .lista{
-        width: 100%;
-    }
-}
-
 .lista li {
     list-style: none;
     background: url(list.svg) no-repeat left 3px;
     padding-left: 24px;
 }
 
+@media(max-width:500px){
+    .secciones3 img{
+        width: 100%;
+    }
+
+    .secciones3 .lista{
+        width: 300px;
+    }
+
+    .secciones3{
+        display: flex;
+        justify-content: center;
+    }
+}
+
+
+/*CUERPO 4*/
+
 .cuerpo4{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top:40px;
-    gap: 100px;
-    width: 75%;
+    margin-top:45px;
+    gap: 40px;
+    width: 1140px;
     background-color: #E75149;
     color: #ffffff;
-    padding: 50px 0px;
+    padding: 40px 0px;
     flex-wrap: wrap;
     border-radius: 10px;
 }
 
 
 .cuerpo4 p, .cuerpo4 h3{
-    width: 420px;
+    width: 400px;
     font-size: 20px;
-}
-
-@media(max-width:1500px){
-    .cuerpo4 p, .cuerpo4 h3{
-        width: 100%;
-    }
+    text-align: justify;
 }
 
 .cuerpo4 h3{
@@ -419,29 +454,40 @@ html {
     width: 600px;
 }
 
-@media(max-width:1500px){
-
+@media(max-width:1200px){
     .cuerpo4{
-        gap: 50px;
-        width: 80%;
-        padding: 20px 0px;
+        width: 700px;
+    }
+}
+
+@media(max-width:700px){
+    .cuerpo4{
+        width: 500px;
     }
 
     .secciones4 img{
         width: 400px;
     }
+}
+
+@media(max-width:500px){
     
-    .cuerpo4 p, .cuerpo4 h3{
-        width: 400px;
-    }
-}
-
-@media(max-width:1060px){
     .cuerpo4{
-        width: 430px;
+        width: 100%;
+        border-radius: 0px;
+    }
+
+    .secciones4 img{
+        width: 300px;
+    }
+
+    .cuerpo4 p, .cuerpo4 h3{
+        width: 300px;
     }
 }
 
+
+/*CUERPO 5*/
 
 .cuerpo5{
     display: flex;
@@ -469,17 +515,6 @@ html {
     margin-top: 50px;
     color: #000000;
 }
-
-
-
-@media(max-width:600px){
-
-    .cuerpo5 h4, .cuerpo5 h3{
-        width: 300px;
-    }
-    
-}
-
 
 .form2{
     display: flex;
@@ -511,6 +546,21 @@ html {
     width: 40%;
 }
 
+@media(max-width:900px){
+    .cuerpo5{
+        gap:initial 10px;
+        margin-top: 0px;
+    }
+
+    .cuerpo5 h4, .cuerpo5 h3{
+        width: 300px;
+    
+        
+    }
+}
+
+/*ALIADOS*/
+
 .aliados{
     padding: 50px;
 }
@@ -534,6 +584,70 @@ html {
 .aliados .logos img:nth-child(1){
     width: 300px;
 }
+
+@media(max-width:1110px){
+    .aliados img{
+
+        width: 90px;
+
+    }
+
+    .aliados .logos{
+        gap: 20px;
+    }
+
+    .aliados .logos img{
+        width: 90px;
+    }
+
+    .aliados .logos img:nth-child(1){
+        width: 200px;
+    }
+}
+
+@media(max-width:920px){
+    .aliados img{
+
+        width: 70px;
+
+    }
+
+    .aliados .logos{
+        gap: 10px;
+    }
+
+    .aliados .logos img{
+        width: 70px;
+    }
+
+    .aliados .logos img:nth-child(1){
+        width: 150px;
+    }
+}
+
+@media(max-width:600px){
+
+    .aliados img{
+
+        width: 100px;
+
+    }
+
+    .aliados .logos{
+        gap: 50px;
+    }
+
+    .aliados .logos img{
+        width: 100px;
+    }
+
+    .aliados .logos img:nth-child(1){
+        width: 180px;
+    }
+}
+
+
+/*FOOTER*/
 
 .footer{
     display: flex;
@@ -559,14 +673,6 @@ html {
     align-items: center;
     color: #000000;
 }
-
-@media(max-width:1200px){
-    .footer .perla{
-        width: 300px;
-    }
-}
-
-
 
 .footer .logo-f img{
     width: 200px;
@@ -612,10 +718,26 @@ html {
     width: 25px;
 }
 
+footer .legal a{
+    text-decoration: none;
+    color: #000000;
+}
 
+@media(max-width:1200px){
+    .footer .perla{
+        width: 300px;
+        
+    }
+}
 
+@media(max-width:600px) {
 
+    footer .legal{
+        padding-right: 100px;
+    }
 
-
-
-
+    footer .contacto{
+        padding-left: 20px;
+    }
+    
+}
