@@ -145,7 +145,7 @@ html {
 }
 
 .form select{
-    width: 50%;
+    width: 100%;
     padding: 10px;
     margin: 10px 0px;
     border: 1px solid;
@@ -178,7 +178,7 @@ html {
     border: 0px;
     width: 100%;
     color: #ffffff;
-
+    cursor: pointer;
     margin-top: 10px;
 }
 
