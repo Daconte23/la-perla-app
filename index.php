@@ -195,7 +195,8 @@
             <p>Cualquier tipo de prestador turístico con operación en el departamento del Magdalena que busque fortalecer su negocio para obtener mejores resultados y que cumpla con los requisitos establecidos en los términos y condiciones. </p>
             <br><br>
 
-            <a href="terminos_y_condiciones.pdf" target="_blank">Descargar términos y condiciones</a>
+            <a href="terminos_y_condiciones.pdf" target="_blank">Descargar términos y condiciones</a> <br><br>
+            <a href="carta_de_compromiso.docx" target="_blank">Carta de compromiso</a>
             <br><br>
             <p style="font-size:12px;">Convocatoria disponible hasta (30) de noviembre de 2022.</p>
         </div>
@@ -216,7 +217,7 @@
             
         </div>
 
-        <div class="secciones2"> <iframe width="400" height="226" src="https://www.youtube.com/embed/IpDz7TepG6Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
+        <div class="secciones2"> <iframe width="400" height="226" src="https://www.youtube.com/embed/dyN6Yz8RIBA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
 
     </div>
 
@@ -270,9 +271,9 @@
             <div class="secciones4"> <img src="cocina.png" alt=""> </div>
     
             <div class="secciones4">
-                <h3> Ellos ya hacen parte, ¿Y tú? </h3>
-                <br>
-                <p>El proyecto busca agrupar la más grande y completa oferta turística (gastronómica, hotelera, turística y cultural) articulando a los prestadores de estos servicios turísticos del departamento del Magdalena con el objetivo de aumentar el aprovechamiento del turismo y posicionar la oferta nivel nacional e internacional. </p>
+                
+                <br><br>
+                <p>CONOCE LOS EMPRESARIOS QUE YA ESTÁN INSCRITOS EN EL PROGRAMA DE FORTALECIMIENTO DE LA PERLA APP. INSCRÍBETE Y HAZ PARTE TÚ TAMBIÉN.</p>
                 <br><br>
     
                 
