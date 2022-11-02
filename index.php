@@ -54,7 +54,7 @@
 
                 <h3>Formulario de pre-inscripción</h3>
                 <br>
-                <p>Estimado prestador turístico, diligenciando el siguiente formulario de inscripción con los datos de tu oferta turística estarás pre-inscrito al PROGRAMA DE FORTALECIMIENTO LIDERADO POR LA CÁMARA DE COMERCIO DE SANTA MARTA Y LA PERLA APP. Posterior a eso, te llegará un correo electrónico en el que deberás completar los demás datos para finalizar la inscripción. </p>
+                <p>Estimado prestador turístico, diligenciando el siguiente formulario de inscripción con los datos de tu oferta turística estarás pre-inscrito al PROGRAMA DE FORTALECIMIENTO LIDERADO POR LA CÁMARA DE COMERCIO DE SANTA MARTA Y LA PERLA APP. Luego te llegará un correo electrónico en el que deberás completar los demás datos para finalizar la inscripción. </p>
                 <br>
                 <h3>DATOS DE CONTACTO
                 </h3>
@@ -147,7 +147,7 @@
         <span id="mce-TIPOID-HELPERTEXT" class="helper_text"></span>
   </div>
   <div class="mc-field-group size1of2">
-        <label for="mce-IDNUMBER">Número de identificación  <span class="asterisk">*</span>
+        <label for="mce-IDNUMBER">Diligencia el número de Cámara de Comercio o Tarjeta de Guía  <span class="asterisk">*</span>
   </label>
         <input type="number" name="IDNUMBER" class="required" value="" id="mce-IDNUMBER" required>
         <span id="mce-IDNUMBER-HELPERTEXT" class="helper_text"></span>
@@ -210,7 +210,7 @@
         <div class="secciones2">
             <h3> ¿Por qué ser parte del Programa de Fortalecimiento e Impulso de La Perla App? </h3>
             <br>
-            <p>El proyecto busca agrupar la más grande y completa oferta turística (gastronómica, hotelera, turística y cultural) articulando a los prestadores de estos servicios turísticos del departamento del Magdalena con el objetivo de aumentar el aprovechamiento del turismo y posicionar la oferta nivel nacional e internacional. </p>
+            <p>El proyecto busca agrupar la más grande y completa oferta turística (gastronómica, hotelera, turística y cultural) articulando a los prestadores de estos servicios turísticos del departamento del Magdalena con el objetivo de aumentar el aprovechamiento del turismo y posicionar la oferta a nivel nacional e internacional. </p>
             <br><br>
 
             
@@ -377,7 +377,6 @@
                 <h4>Legal</h4>
                 <p><a href="terminos_y_condiciones.pdf" target="_blank">Términos y condiciones</a></p>
                 <p><a href="https://www.ccsm.org.co/proteccion-de-datos-personales.html" target="_blank">Política de privacidad</a></p>
-                <p><a href="carta_de_compromiso.docx">Carta de compromiso</a></p>
                 <p style="color:#00C3E4">Política de cookies</p>
 
             </ul>
