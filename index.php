@@ -162,7 +162,7 @@
         <div class="radio">
                     
             <input type="radio" id="radio" name="radio">
-            <label for="radio">He leído y acepto la política de privacidad y tratamiento de datos personales. <a href="https://www.ccsm.org.co/proteccion-de-datos-personales.html" target="_blank">proteccion de datos personales</a> </label>
+            <label for="radio">He leído y acepto la política de privacidad y tratamiento de <a href="https://www.ccsm.org.co/proteccion-de-datos-personales.html" target="_blank">proteccion de datos personales</a> </label>
 
            </div>
 
