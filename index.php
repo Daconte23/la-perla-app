@@ -25,7 +25,7 @@
         <noscript><img height="1" width="1" style="display:none"
         src="https://www.facebook.com/tr?id=773895816544427&ev=PageView&noscript=1"
         /></noscript>
-        
+
 <!-- End Meta Pixel Code -->
 
 </head>
@@ -54,7 +54,7 @@
 
                 <h3>Formulario de pre-inscripción</h3>
                 <br>
-                <p>Estimado prestador turístico, diligenciando el siguiente formulario de inscripción con los datos de tu oferta turística estarás pre-inscrito al PROGRAMA DE FORTALECIMIENTO EMPRESARIAL LIDERADO POR LA CÁMARA DE COMERCIO DE SANTA MARTA Y LA PERLA APP. Posterior a eso, te llegará un correo electrónico en el que deberás completar los demás datos para finalizar la inscripción. </p>
+                <p>Estimado prestador turístico, diligenciando el siguiente formulario de inscripción con los datos de tu oferta turística estarás pre-inscrito al PROGRAMA DE FORTALECIMIENTO LIDERADO POR LA CÁMARA DE COMERCIO DE SANTA MARTA Y LA PERLA APP. Posterior a eso, te llegará un correo electrónico en el que deberás completar los demás datos para finalizar la inscripción. </p>
                 <br>
                 <h3>DATOS DE CONTACTO
                 </h3>
