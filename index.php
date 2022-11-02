@@ -161,7 +161,7 @@
 
         <div class="radio">
                     
-            <input type="radio" id="radio" name="radio">
+            <input type="radio" id="radio" name="radio" required>
             <label for="radio">He leído y acepto la política de privacidad y <a href="Aviso_de_privacidad-La_Perla_App.pdf" target="_blank">proteccion de datos personales</a> </label>
 
            </div>
