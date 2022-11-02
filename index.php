@@ -35,7 +35,7 @@
 
 		<img src="logoblanco.svg" alt="">
 
-		<a href="#formulario">Incribirme</a>
+		<a href="#formulario">Inscribirme</a>
 
 	</nav>
 
