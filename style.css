@@ -61,7 +61,7 @@ html {
 }
 
 .seccion1{
-    margin-top: 700px;
+    margin-top: 800px;
     display: flex;
     justify-content: center;
     gap: 50px;
@@ -76,11 +76,11 @@ html {
 }
 
 .hero .morena{
-    width: 250px;
+    width: 220px;
 }
 
 .hero .desbloquea{
-    width: 400px;
+    width: 380px;
     margin-top: -200px;
 }
 
