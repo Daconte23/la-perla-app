@@ -35,7 +35,7 @@
 
 		<img src="logoblanco.svg" alt="">
 
-		<a href="#formulario">Incribirme</a>
+		<a href="#formulario">Inscribirme</a>
 
 	</nav>
 
@@ -161,8 +161,8 @@
 
         <div class="radio">
                     
-            <input type="radio" id="radio" name="radio">
-            <label for="radio">He leído y acepto la política de privacidad y <a href="https://www.ccsm.org.co/proteccion-de-datos-personales.html" target="_blank">proteccion de datos personales</a> </label>
+            <input type="checkbox" id="radio" name="radio" required>
+            <label for="radio">He leído y acepto la política de privacidad y <a href="Aviso_de_privacidad-La_Perla_App.pdf" target="_blank">proteccion de datos personales</a> </label>
 
            </div>
 
@@ -195,7 +195,7 @@
             <p>Cualquier tipo de prestador turístico con operación en el departamento del Magdalena que busque fortalecer su negocio para obtener mejores resultados y que cumpla con los requisitos establecidos en los términos y condiciones. </p>
             <br><br>
 
-            <a href="TERMINOS_Y_CONDICIONES_CONVOCATORIA_PRESTADORES_TURISTICOS_2022.pdf" target="_blank">Descargar términos y condiciones</a> <br><br>
+            <a href="TERMINOS_Y_CONDICIONES.pdf" target="_blank">Descargar términos y condiciones</a> <br><br>
             <a href="carta_de_compromiso.docx" target="_blank">Carta de compromiso</a>
             <br><br>
             <p style="font-size:12px;">Convocatoria disponible hasta (30) de noviembre de 2022.</p>
@@ -376,8 +376,8 @@
             <ul>
 
                 <h4>Legal</h4>
-                <p><a href="TERMINOS_Y_CONDICIONES_CONVOCATORIA_PRESTADORES_TURISTICOS_2022.pdf" target="_blank">Términos y condiciones</a></p>
-                <p><a href="https://www.ccsm.org.co/proteccion-de-datos-personales.html" target="_blank">Política de privacidad</a></p>
+                <p><a href="TERMINOS_Y_CONDICIONES.pdf" target="_blank">Términos y condiciones</a></p>
+                <p><a href="Aviso_de_privacidad-La_Perla_App.pdf" target="_blank">Política de privacidad</a></p>
                 <p style="color:#00C3E4">Política de cookies</p>
 
             </ul>
