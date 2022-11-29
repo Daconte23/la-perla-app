@@ -8,6 +8,22 @@
     <script src="main.js"></script>
     <title>La Perla App</title>
 
+    <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-EVDSM0MN89"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-EVDSM0MN89');
+        </script>
+            <meta charset="UTF-8">
+            <meta http-equiv="X-UA-Compatible" content="IE=edge">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <link rel="stylesheet" href="style.css">
+            <script src="main.js"></script>
+            <title>La Perla App</title>
+
     <!-- Meta Pixel Code -->
 
         <script>
