@@ -352,6 +352,8 @@
             <img src="sgr.svg" alt="">
             <img src="camara.svg" alt="">
             <img src="vital.svg" alt="">
+            <img src="punto-estrategico.png" alt="">
+            <img src="lolo-cerobox.png" alt="">
 
         </div>
 
