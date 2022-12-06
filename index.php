@@ -194,7 +194,9 @@
 
             </div>
 
-            <div id="reloj"></div>
+            <div id="reloj">
+
+            </div>
 
         </section>
 

@@ -1,3 +1,5 @@
+/*
+
 var end = new Date('11/30/2022 9:30 AM');
 
     var _second = 1000;
@@ -27,4 +29,4 @@ var end = new Date('11/30/2022 9:30 AM');
         document.getElementById('reloj').innerHTML += seconds + ' segundos';
     }
 
-    timer = setInterval(showRemaining, 1000);
+    timer = setInterval(showRemaining, 1000);  */
