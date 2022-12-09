@@ -228,7 +228,7 @@
             <br><br>
 
             <a href="TERMINOS_Y_CONDICIONES.pdf" target="_blank">Descargar términos y condiciones</a> <br><br>
-            <a href="carta_de_compromiso.docx" target="_blank">Carta de compromiso</a>
+            <a href="carta_de_compromiso.docx" target="_blank">Carta de compromiso</a><br><br>
             <a href="Adenda-1.pdf" target="_blank">Adenda</a>
             <br><br>
             <p style="font-size:12px;">Convocatoria disponible hasta (30) de noviembre de 2022.</p>
