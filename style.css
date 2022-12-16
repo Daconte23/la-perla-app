@@ -521,6 +521,9 @@ url("img/mask_form_bg.webp") 2x);
 	font-family:"Outfit";
 	line-height:21px;
 }
+.img-style{
+	height:100px;
+}
 
 /* = Colour
 -------------------------------------------------------------- */
