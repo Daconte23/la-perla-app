@@ -417,9 +417,6 @@ url("img/fondo-roza.webp") 2x);
 .white-text{
 	color:#FEFFFF!important;
 }
-.img-style{
-	width:300px;
-}
 .parrafo{
 	color:var(--swatch-var-Muestra-sin-nombre)!important;
 	font-family:"Outfit-Thin";
