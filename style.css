@@ -368,11 +368,11 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	background:linear-gradient(90deg, #E75149  0%, #01DAFF 100%);
 }
 .banner{
-	background-image:url("img/bgbanner.jpg");
-	background-image: -webkit-image-set(url("img/bgbanner.webp") 1x,
-url("img/bgbanner.webp") 2x);background-image: image-set(url("img/bgbanner.jpg") 1x,
-url("img/bgbanner.jpg") 2x,url("img/bgbanner.webp") 1x,
-url("img/bgbanner.webp") 2x);
+	background-image:url("img/bg_banner2.jpg");
+	background-image: -webkit-image-set(url("img/bg_banner2.webp") 1x,
+url("img/bg_banner2.webp") 2x);background-image: image-set(url("img/bg_banner2.jpg") 1x,
+url("img/bg_banner2.jpg") 2x,url("img/bg_banner2.webp") 1x,
+url("img/bg_banner2.webp") 2x);
 	background-color:rgba(0,0,0,0.56);
 	background-size:cover;
 	background-blend-mode:darken;
@@ -687,6 +687,8 @@ url("img/mask_form_bg.webp") 2x);
 	}
 	.colorbg{
 		background-color:var(--swatch-var-No-hay-Selección-Copy);
+	}
+	.desbloquea{
 	}
 	
 }
