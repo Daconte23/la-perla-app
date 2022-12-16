@@ -9,8 +9,8 @@
 	<meta name="robots" content="index, follow">
     <link rel="shortcut icon" type="image/png" href="favicon.png">
     
-	<link rel="stylesheet" type="text/css" href="./css/bootstrap.min.css?3808">
-	<link rel="stylesheet" type="text/css" href="style.css?3804">
+	<link rel="stylesheet" type="text/css" href="./css/bootstrap.min.css?2394">
+	<link rel="stylesheet" type="text/css" href="style.css?3954">
 	<link rel="stylesheet" type="text/css" href="./css/all.min.css">
 	<link rel="stylesheet" type="text/css" href="./css/ionicons.min.css">
 	<link href='https://fonts.googleapis.com/css?family=Outfit:500,600,800,40&display=swap&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
@@ -90,13 +90,13 @@
 
 <!-- cover -->
 <div class="bloc l-bloc banner nonein full-width-bloc" id="cover">
-	<div class="container bloc-lg">
-		<div class="row">
-			<div class="col-md-6 text-start align-self-center">
+	<div class="container bloc-sm">
+		<div class="row mt-3 mb-3">
+			<div class="col-md-6 text-start align-self-center mb-3 offset-0">
 				<img src="img/lazyload-ph.png" data-src="img/desbloquea.svg" class="img-fluid mx-auto d-block ps-lg-3 pe-lg-3 lazyload" alt="desbloquea" width="489" height="192">
 			</div>
 			<div class="col-md-6 text-start">
-				<picture><source type="image/webp" srcset="img/lazyload-ph.png" data-srcset="img/celular.webp"><img src="img/lazyload-ph.png" data-src="img/celular.png" class="img-fluid mx-auto d-block img-style lazyload" alt="celular" width="300" height="554"></picture>
+				<picture><source type="image/webp" srcset="img/lazyload-ph.png" data-srcset="img/phone_2.webp"><img src="img/lazyload-ph.png" data-src="img/phone_2.png" class="img-fluid mx-auto d-block lazyload" alt="celular" width="394" height="771"></picture>
 			</div>
 		</div>
 	</div>
@@ -319,37 +319,47 @@
 
 <!-- bloc-3 -->
 <div class="bloc l-bloc nonein none bg-center" id="bloc-3">
-	<div class="container bloc-lg bloc-md-lg">
+	<div class="container bloc-md-lg bloc-sm">
 		<div class="row">
-			<div class="col-md-4 text-start align-self-end mb-5">
+			<div class="col-md-4 text-start align-self-end mb-5 col-lg-3">
 				<div>
-					<div class="mt-lg-5 mb-lg-4 ms-lg-4 me-lg-4 mb-3">
-						<img src="img/lazyload-ph.png" data-src="img/icon1.svg" class="img-fluid mx-auto d-block img-4-style lazyload" alt="icon1" width="100" height="107">
+					<div class="mt-lg-5 mb-lg-4 ms-lg-4 me-lg-4 mb-3 mt-4 ">
+						<img src="img/lazyload-ph.png" data-src="img/icon1.svg" class="img-fluid mx-auto d-block img-4-style lazyload" alt="icon1" width="94" height="100">
 					</div>
 					<div class="mt-lg-2 mb-lg-2 ms-lg-4 me-lg-4">
-						<a href="TERMINOS_Y_CONDICIONES.pdf" class="btn btn-c-6341 float-end w-100" target="_blank"><span class="icon-spacer float-lg-end fa fa-download icon-3473"></span> Términos y condiciones</a>
+						<a href="TERMINOS_Y_CONDICIONES.pdf" class="btn btn-c-6341 float-end w-100 btn-sm" target="_blank"><span class="icon-spacer float-lg-end fa fa-download icon-3473"></span> Términos y condiciones</a>
 					</div>
 				</div>
 			</div>
-			<div class="col-md-4 text-start align-self-end mb-5">
+			<div class="col-md-4 text-start align-self-end mb-5 col-lg-3">
 				<div>
 					<div class="mt-lg-5 mb-lg-4 ms-lg-4 me-lg-4 mb-3">
-						<img src="img/lazyload-ph.png" data-src="img/icon2.svg" class="img-fluid mx-auto d-block img-bloc-3-style lazyload" alt="icon1" width="100" height="97">
+						<img src="img/lazyload-ph.png" data-src="img/icon2.svg" class="img-fluid mx-auto d-block img-bloc-3-style lazyload" alt="icon1" width="103" height="100">
 					</div>
 					<div class="mt-lg-2 mb-lg-2 ms-lg-4 me-lg-4">
 						<div class="text-center">
-							<a href="Adenda-1.pdf" class="btn btn-c-6341 w-100" target="_blank"><span class="icon-spacer float-lg-end fa fa-download icon-3473"></span>Adenda</a>
+							<a href="Adenda-1.pdf" class="btn btn-c-6341 w-100 btn-sm" target="_blank"><span class="icon-spacer float-lg-end fa fa-download icon-3473"></span>Adenda</a>
 						</div>
 					</div>
 				</div>
 			</div>
-			<div class="col-md-4 text-start align-self-end mb-5">
+			<div class="col-md-4 text-start align-self-end mb-5 col-lg-3">
 				<div>
 					<div class="mt-lg-5 mb-lg-4 ms-lg-4 me-lg-4 mb-3">
 						<img src="img/lazyload-ph.png" data-src="img/icon3.svg" class="img-fluid mx-auto d-block img-6-style lazyload" alt="icon1" width="100" height="100">
 					</div>
 					<div class="mt-lg-2 mb-lg-2 ms-lg-4 me-lg-4">
-						<a href="carta_de_compromiso.docx" class="btn btn-c-6341 w-100" target="_blank"><span class="icon-spacer float-lg-end fa fa-download icon-3473"></span>Carta de compromiso</a>
+						<a href="carta_de_compromiso.docx" class="btn btn-c-6341 w-100 btn-sm" target="_blank"><span class="icon-spacer float-lg-end fa fa-download icon-3473"></span>Carta de compromiso</a>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-4 text-start align-self-end mb-5 col-lg-3">
+				<div>
+					<div class="mt-lg-5 mb-lg-4 ms-lg-4 me-lg-4 mb-3">
+						<img src="img/lazyload-ph.png" data-src="img/iconpostulantes.svg" class="img-fluid mx-auto d-block img-6-style lazyload" alt="icon1" width="100" height="100">
+					</div>
+					<div class="mt-lg-2 mb-lg-2 ms-lg-4 me-lg-4">
+						<a href=" postulantes_aceptados.pdf" class="btn btn-c-6341 w-100 btn-sm" target="_blank"><span class="icon-spacer float-lg-end fa fa-download icon-3473"></span> Postulantes aceptados</a>
 					</div>
 				</div>
 			</div>
@@ -456,7 +466,7 @@
 	<div class="container bloc-lg bloc-md-lg">
 		<div class="row">
 			<div class="col-md-6 text-start align-self-center">
-				<p class="mb-4 titles-form p-style mb-lg-1 ">
+				<p class="mb-4 titles-form p-style mb-lg-1">
 					¿Tienes dudas sobre la convocatoria?<br>
 				</p>
 				<p class="titles-form white p-formulario-style">
@@ -481,7 +491,7 @@
 						<label class="form-label">
 							Teléfono
 						</label>
-						<input class="form-control" type="number" id="input_2095">
+						<input class="form-control" type="number" id="number">
 					</div>
 					<div class="form-group mb-3">
 						<label class="form-label">
@@ -643,10 +653,10 @@
 <!-- Additional JS --><script src="./js/jquery.min.js"></script>
 
 
-<script src="./js/bootstrap.bundle.min.js?505"></script>
-<script src="./js/blocs.min.js?7863"></script>
+<script src="./js/bootstrap.bundle.min.js?3327"></script>
+<script src="./js/blocs.min.js?4182"></script>
 <script src="./js/jqBootstrapValidation.js"></script>
-<script src="./js/formHandler.js?4614"></script>
+<script src="./js/formHandler.js?2877"></script>
 <script src="./js/lazysizes.min.js" defer></script>
 <!-- Additional JS END -->
 
