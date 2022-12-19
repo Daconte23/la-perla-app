@@ -9,8 +9,8 @@
 	<meta name="robots" content="index, follow">
     <link rel="shortcut icon" type="image/png" href="favicon.png">
     
-	<link rel="stylesheet" type="text/css" href="./css/bootstrap.min.css?2394">
-	<link rel="stylesheet" type="text/css" href="style.css?3954">
+	<link rel="stylesheet" type="text/css" href="./css/bootstrap.min.css?1138">
+	<link rel="stylesheet" type="text/css" href="style.css?5144">
 	<link rel="stylesheet" type="text/css" href="./css/all.min.css">
 	<link rel="stylesheet" type="text/css" href="./css/ionicons.min.css">
 	<link href='https://fonts.googleapis.com/css?family=Outfit:500,600,800,40&display=swap&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
@@ -111,9 +111,6 @@
 				<h3 class="mb-4 titles text-lg-center h3-style">
 					CONOCE CÓMO AVANZA LA CONVOCATORIA
 				</h3>
-				<p class="parrafo p-bloc-2-style mb-lg-4">
-					Cualquier tipo de prestador turístico con operación en el departamento del Magdalena que busque fortalecer su negocio para obtener mejores resultados y que cumpla con los requisitos establecidos en los términos y condiciones.
-				</p>
 			</div>
 		</div>
 		<div class="row d-sm-flex d-none">
@@ -249,7 +246,7 @@
 <!-- tablaweb END -->
 
 <!-- tablamobile -->
-<div class="bloc nonein none bgc-2608 d-bloc full-width-bloc   d-sm-none d-flex" id="tablamobile">
+<div class="bloc nonein none bgc-2608 full-width-bloc   d-sm-none d-flex d-bloc" id="tablamobile">
 	<div class="container bloc-sm-lg bloc-no-padding">
 		<div class="row colorbg">
 			<div class="col">
@@ -321,17 +318,17 @@
 <div class="bloc l-bloc nonein none bg-center" id="bloc-3">
 	<div class="container bloc-md-lg bloc-sm">
 		<div class="row">
-			<div class="col-md-4 text-start align-self-end mb-5 col-lg-3">
+			<div class="col-md-4 text-start mb-5 col-lg-3 align-self-start">
 				<div>
-					<div class="mt-lg-5 mb-lg-4 ms-lg-4 me-lg-4 mb-3 mt-4 ">
-						<img src="img/lazyload-ph.png" data-src="img/icon1.svg" class="img-fluid mx-auto d-block img-4-style lazyload" alt="icon1" width="94" height="100">
+					<div class="mt-lg-5 mb-lg-4 ms-lg-4 me-lg-4 mb-3 mt-4">
+						<img src="img/lazyload-ph.png" data-src="img/icon1.svg" class="img-fluid mx-auto d-block img-style lazyload" alt="icon1" width="94" height="100">
 					</div>
 					<div class="mt-lg-2 mb-lg-2 ms-lg-4 me-lg-4">
 						<a href="TERMINOS_Y_CONDICIONES.pdf" class="btn btn-c-6341 float-end w-100 btn-sm" target="_blank"><span class="icon-spacer float-lg-end fa fa-download icon-3473"></span> Términos y condiciones</a>
 					</div>
 				</div>
 			</div>
-			<div class="col-md-4 text-start align-self-end mb-5 col-lg-3">
+			<div class="col-md-4 text-start mb-5 col-lg-3 align-self-start">
 				<div>
 					<div class="mt-lg-5 mb-lg-4 ms-lg-4 me-lg-4 mb-3">
 						<img src="img/lazyload-ph.png" data-src="img/icon2.svg" class="img-fluid mx-auto d-block img-bloc-3-style lazyload" alt="icon1" width="103" height="100">
@@ -343,7 +340,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-md-4 text-start align-self-end mb-5 col-lg-3">
+			<div class="col-md-4 text-start mb-5 col-lg-3 align-self-start">
 				<div>
 					<div class="mt-lg-5 mb-lg-4 ms-lg-4 me-lg-4 mb-3">
 						<img src="img/lazyload-ph.png" data-src="img/icon3.svg" class="img-fluid mx-auto d-block img-6-style lazyload" alt="icon1" width="100" height="100">
@@ -353,7 +350,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-md-4 text-start align-self-end mb-5 col-lg-3">
+			<div class="col-md-4 text-start mb-5 col-lg-3 align-self-start">
 				<div>
 					<div class="mt-lg-5 mb-lg-4 ms-lg-4 me-lg-4 mb-3">
 						<img src="img/lazyload-ph.png" data-src="img/iconpostulantes.svg" class="img-fluid mx-auto d-block img-6-style lazyload" alt="icon1" width="100" height="100">
@@ -397,7 +394,7 @@
 		<div class="row">
 			<div class="col mb-lg-2">
 				<h2 class="mb-4 text-lg-center titles h2-style mt-lg-4">
-					<span>Programa de Fortalecimiento e Impulso de la</span> oferta turística <span>del Magdalena</span> <span class="txtdestacado">La Perla App.</span>
+					<span class="redcolor ">Conoce los beneficios</span> <span>del Programa de Fortalecimiento e Impulso de la oferta turística del Magdalena</span> <span class="laperlacolor">La Perla App.</span>
 				</h2>
 			</div>
 		</div>
@@ -653,10 +650,10 @@
 <!-- Additional JS --><script src="./js/jquery.min.js"></script>
 
 
-<script src="./js/bootstrap.bundle.min.js?3327"></script>
-<script src="./js/blocs.min.js?4182"></script>
+<script src="./js/bootstrap.bundle.min.js?8337"></script>
+<script src="./js/blocs.min.js?9182"></script>
 <script src="./js/jqBootstrapValidation.js"></script>
-<script src="./js/formHandler.js?2877"></script>
+<script src="./js/formHandler.js?9761"></script>
 <script src="./js/lazysizes.min.js" defer></script>
 <!-- Additional JS END -->
 
