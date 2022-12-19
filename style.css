@@ -471,9 +471,6 @@ url("img/mask_form_bg.webp") 2x);
 .h3-style{
 	font-family:"Outfit";
 }
-.p-bloc-2-style{
-	font-family:"Outfit";
-}
 .p-bloc-5-style{
 	font-family:"Outfit";
 }
@@ -496,7 +493,7 @@ url("img/mask_form_bg.webp") 2x);
 	font-family:"Outfit";
 }
 .footer{
-	background-color:#00DAFF;
+	background-color:var(--swatch-var-Muestra-sin-nombre-copy-4);
 }
 .p-fotter-style{
 	font-family:"Outfit";
@@ -524,6 +521,16 @@ url("img/mask_form_bg.webp") 2x);
 .img-style{
 	height:100px;
 }
+.text-span-style{
+	font-weight:bold;
+}
+.laperlacolor{
+	background-color:transparent;
+	color:var(--swatch-var-Muestra-sin-nombre-copy-4)!important;
+}
+.redcolor{
+	color:var(--swatch-var-No-hay-Selección-Copy)!important;
+}
 
 /* = Colour
 -------------------------------------------------------------- */
@@ -542,6 +549,8 @@ url("img/mask_form_bg.webp") 2x);
 	--swatch-var-Muestra-sin-nombre-copy-2:rgba(255,255,255,1.00);
 	
 	--swatch-var-Muestra-sin-nombre-copy-1608:rgba(0,133,158,1.00);
+	
+	--swatch-var-Muestra-sin-nombre-copy-4:rgba(0,218,255,1.00);
 	
 }
 
