@@ -10,7 +10,7 @@
 	$message = $_POST['message'];
 	$optin = $_POST['optin'];
 	
-	$to = 'aqcohen@gmail.com'; // Email submissions are sent to this email
+	$to = 'comunicaciones@laperlaapp.com'; // Email submissions are sent to this email
 
 	// Create email	
 	$email_subject = "Duda desde el formulario de cotacto.";

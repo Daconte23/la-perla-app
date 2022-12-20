@@ -9,8 +9,8 @@
 	<meta name="robots" content="index, follow">
     <link rel="shortcut icon" type="image/png" href="favicon.png">
     
-	<link rel="stylesheet" type="text/css" href="./css/bootstrap.min.css?1138">
-	<link rel="stylesheet" type="text/css" href="style.css?5144">
+	<link rel="stylesheet" type="text/css" href="./css/bootstrap.min.css?9972">
+	<link rel="stylesheet" type="text/css" href="style.css?826">
 	<link rel="stylesheet" type="text/css" href="./css/all.min.css">
 	<link rel="stylesheet" type="text/css" href="./css/ionicons.min.css">
 	<link href='https://fonts.googleapis.com/css?family=Outfit:500,600,800,40&display=swap&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
@@ -93,7 +93,7 @@
 	<div class="container bloc-sm">
 		<div class="row mt-3 mb-3">
 			<div class="col-md-6 text-start align-self-center mb-3 offset-0">
-				<img src="img/lazyload-ph.png" data-src="img/desbloquea.svg" class="img-fluid mx-auto d-block ps-lg-3 pe-lg-3 lazyload" alt="desbloquea" width="489" height="192">
+				<img src="img/lazyload-ph.png" data-src="img/desbloquea.svg" class="img-fluid mx-auto d-block ps-lg-3 pe-lg-3 lazyload" alt="desbloquea" width="625" height="250">
 			</div>
 			<div class="col-md-6 text-start">
 				<picture><source type="image/webp" srcset="img/lazyload-ph.png" data-srcset="img/phone_2.webp"><img src="img/lazyload-ph.png" data-src="img/phone_2.png" class="img-fluid mx-auto d-block lazyload" alt="celular" width="394" height="771"></picture>
@@ -394,13 +394,13 @@
 		<div class="row">
 			<div class="col mb-lg-2">
 				<h2 class="mb-4 text-lg-center titles h2-style mt-lg-4">
-					<span class="redcolor ">Conoce los beneficios</span> <span>del Programa de Fortalecimiento e Impulso de la oferta turística del Magdalena</span> <span class="laperlacolor">La Perla App.</span>
+					<span class="redcolor">Conoce los beneficios</span> <span>del Programa de Fortalecimiento e Impulso de la oferta turística del Magdalena</span> <span class="laperlacolor">La Perla App.</span>
 				</h2>
 			</div>
 		</div>
 		<div class="row align-items-center mb-lg-4">
 			<div class="col-md-6 col-lg-5 col-12">
-				<picture><source type="image/webp" srcset="img/lazyload-ph.png" data-srcset="img/mar_adentro_1.webp"><img src="img/lazyload-ph.png" data-src="img/mar_adentro_1.jpg" class="img-fluid mx-auto d-block lazyload" alt="mar_adentro_1" width="424" height="615"></picture>
+				<picture><source type="image/webp" srcset="img/lazyload-ph.png" data-srcset="img/mar_adentro_1.webp"><img src="img/lazyload-ph.png" data-src="img/mar_adentro_1.jpg" class="img-fluid mx-auto d-block lazyload" alt="mar_adentro_1" width="461" height="669"></picture>
 			</div>
 			<div class="col-md-6 col-lg-7 align-self-start">
 				<ul class="text-list mt-4">
@@ -446,7 +446,7 @@
 	<div class="container bloc-md">
 		<div class="row">
 			<div class="col-md-6 text-start">
-				<picture><source type="image/webp" srcset="img/lazyload-ph.png" data-srcset="img/smiling.webp"><img src="img/lazyload-ph.png" data-src="img/smiling.jpg" class="img-fluid mx-auto d-block lazyload" alt="smiling" width="513" height="343"></picture>
+				<picture><source type="image/webp" srcset="img/lazyload-ph.png" data-srcset="img/smiling.webp"><img src="img/lazyload-ph.png" data-src="img/smiling.jpg" class="img-fluid mx-auto d-block lazyload" alt="smiling" width="558" height="373"></picture>
 			</div>
 			<div class="col-md-6 text-start align-self-center">
 				<h3 class="mb-4 titles white-text text-center text-lg-start float-lg-none">
@@ -518,10 +518,10 @@
 			<div class="col-sm-3 col-12 mt-3 mb-3 text-lg-center col-lg-12">
 				<div class="text-lg-center mb-lg-4 mt-lg-1 mb-4">
 					<picture><source type="image/webp" srcset="img/lazyload-ph.png" data-srcset="img/img_aliados.webp"><img src="img/lazyload-ph.png" data-src="img/img_aliados.png" class="img-fluid mx-auto d-block img-img-aliad-style lazyload" alt="Aliados" width="134" height="102"></picture>
-				</div><picture><source type="image/webp" srcset="img/lazyload-ph.png" data-srcset="img/brandsempresas.webp"><img src="img/lazyload-ph.png" data-src="img/brandsempresas.png" class="img-fluid mx-auto d-sm-block d-none lazyload" alt="Brands" width="1066" height="46"></picture>
+				</div><picture><source type="image/webp" srcset="img/lazyload-ph.png" data-srcset="img/brandsempresas.webp"><img src="img/lazyload-ph.png" data-src="img/brandsempresas.png" class="img-fluid mx-auto d-sm-block d-none lazyload" alt="Brands" width="1726" height="75"></picture>
 				<div class="row align-items-center nonein brands   d-sm-none d-flex">
 					<div class="col-sm-3 col-12 mt-3 mb-3 text-lg-center">
-						<picture><source type="image/webp" srcset="img/lazyload-ph.png" data-srcset="img/minciencias.webp"><img src="img/lazyload-ph.png" data-src="img/minciencias.png" class="img-fluid mx-auto d-block lazyload" alt="ny times" width="243" height="42"></picture>
+						<picture><source type="image/webp" srcset="img/lazyload-ph.png" data-srcset="img/minciencias.webp"><img src="img/lazyload-ph.png" data-src="img/minciencias.png" class="img-fluid mx-auto d-block lazyload" alt="ny times" width="319" height="55"></picture>
 					</div>
 					<div class="col-sm-3 col-12 mt-3 mb-3 text-lg-center">
 						<picture><source type="image/webp" srcset="img/lazyload-ph.png" data-srcset="img/sgr.webp"><img src="img/lazyload-ph.png" data-src="img/sgr.png" class="img-fluid mx-auto d-block lazyload" alt="forbes" width="125" height="75"></picture>
@@ -562,10 +562,10 @@
 				<div>
 					<div class="row">
 						<div class="col">
-							<a href="https://play.google.com/store/apps/details?id=com.cerobox_laperla" target="_blank"><picture><source type="image/webp" srcset="img/lazyload-ph.png" data-srcset="img/googleplay.webp"><img src="img/lazyload-ph.png" data-src="img/googleplay.png" class="img-fluid mx-auto d-block lazyload" alt="googleplay" width="155" height="47"></picture></a>
+							<a href="https://play.google.com/store/apps/details?id=com.cerobox_laperla" target="_blank"><picture><source type="image/webp" srcset="img/lazyload-ph.png" data-srcset="img/googleplay.webp"><img src="img/lazyload-ph.png" data-src="img/googleplay.png" class="img-fluid mx-auto d-block lazyload" alt="googleplay" width="161" height="49"></picture></a>
 						</div>
 						<div class="col">
-							<a href="https://apps.apple.com/app/la-perla-santa-marta/id1467593854" target="_blank"><picture><source type="image/webp" srcset="img/lazyload-ph.png" data-srcset="img/appleplay.webp"><img src="img/lazyload-ph.png" data-src="img/appleplay.png" class="img-fluid mx-auto d-block lazyload" alt="appleplay" width="155" height="47"></picture></a>
+							<a href="https://apps.apple.com/app/la-perla-santa-marta/id1467593854" target="_blank"><picture><source type="image/webp" srcset="img/lazyload-ph.png" data-srcset="img/appleplay.webp"><img src="img/lazyload-ph.png" data-src="img/appleplay.png" class="img-fluid mx-auto d-block lazyload" alt="appleplay" width="160" height="49"></picture></a>
 						</div>
 					</div>
 				</div>
@@ -650,10 +650,10 @@
 <!-- Additional JS --><script src="./js/jquery.min.js"></script>
 
 
-<script src="./js/bootstrap.bundle.min.js?8337"></script>
-<script src="./js/blocs.min.js?9182"></script>
+<script src="./js/bootstrap.bundle.min.js?8403"></script>
+<script src="./js/blocs.min.js?9688"></script>
 <script src="./js/jqBootstrapValidation.js"></script>
-<script src="./js/formHandler.js?9761"></script>
+<script src="./js/formHandler.js?795"></script>
 <script src="./js/lazysizes.min.js" defer></script>
 <!-- Additional JS END -->
 
