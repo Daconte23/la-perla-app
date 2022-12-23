@@ -9,8 +9,8 @@
 	<meta name="robots" content="index, follow">
     <link rel="shortcut icon" type="image/png" href="favicon.png">
     
-	<link rel="stylesheet" type="text/css" href="./css/bootstrap.min.css?9972">
-	<link rel="stylesheet" type="text/css" href="style.css?826">
+	<link rel="stylesheet" type="text/css" href="./css/bootstrap.min.css?1509">
+	<link rel="stylesheet" type="text/css" href="style.css?3332">
 	<link rel="stylesheet" type="text/css" href="./css/all.min.css">
 	<link rel="stylesheet" type="text/css" href="./css/ionicons.min.css">
 	<link href='https://fonts.googleapis.com/css?family=Outfit:500,600,800,40&display=swap&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
@@ -361,6 +361,15 @@
 				</div>
 			</div>
 		</div>
+		<div class="row">
+			<div class="col-md-4 text-start mb-5 align-self-start col-lg-12">
+				<div class="text-lg-center">
+					<div class="mt-lg-5 mb-lg-4 ms-lg-4 me-lg-4 mb-3 mt-4 text-lg-center">
+						<img src="img/lazyload-ph.png" data-src="img/icon1.svg" class="img-fluid mx-auto d-block img-style lazyload " alt="icon1" width="94" height="100">
+					</div><a href="boletin_informativo_evaluacion_de_postulados.pdf" class="btn btn-c-6341 btn-sm" target="_blank"><span class="icon-spacer fa fa-download float-lg-end icon-314"></span>Boletín informativo evaluación de postulados</a>
+				</div>
+			</div>
+		</div>
 	</div>
 </div>
 <!-- bloc-3 END -->
@@ -650,10 +659,10 @@
 <!-- Additional JS --><script src="./js/jquery.min.js"></script>
 
 
-<script src="./js/bootstrap.bundle.min.js?8403"></script>
-<script src="./js/blocs.min.js?9688"></script>
+<script src="./js/bootstrap.bundle.min.js?6855"></script>
+<script src="./js/blocs.min.js?2647"></script>
 <script src="./js/jqBootstrapValidation.js"></script>
-<script src="./js/formHandler.js?795"></script>
+<script src="./js/formHandler.js?2685"></script>
 <script src="./js/lazysizes.min.js" defer></script>
 <!-- Additional JS END -->
 

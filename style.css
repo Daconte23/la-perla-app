@@ -581,6 +581,10 @@ url("img/mask_form_bg.webp") 2x);
 	color:var(--swatch-var-No-hay-Selección-Copy-copy-1)!important;
 	border-color:var(--swatch-var-No-hay-Selección-Copy-copy-1)!important;
 }
+.icon-314{
+	color:var(--swatch-var-Muestra-sin-nombre-copy-2)!important;
+	border-color:var(--swatch-var-Muestra-sin-nombre-copy-2)!important;
+}
 .icon-6455{
 	color:var(--swatch-var-Muestra-sin-nombre)!important;
 	border-color:var(--swatch-var-Muestra-sin-nombre)!important;
