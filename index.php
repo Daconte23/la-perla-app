@@ -9,8 +9,8 @@
 	<meta name="robots" content="index, follow">
     <link rel="shortcut icon" type="image/png" href="favicon.png">
     
-	<link rel="stylesheet" type="text/css" href="./css/bootstrap.min.css?1509">
-	<link rel="stylesheet" type="text/css" href="style.css?3332">
+	<link rel="stylesheet" type="text/css" href="./css/bootstrap.min.css?4438">
+	<link rel="stylesheet" type="text/css" href="style.css?3485">
 	<link rel="stylesheet" type="text/css" href="./css/all.min.css">
 	<link rel="stylesheet" type="text/css" href="./css/ionicons.min.css">
 	<link href='https://fonts.googleapis.com/css?family=Outfit:500,600,800,40&display=swap&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
@@ -318,7 +318,7 @@
 <div class="bloc l-bloc nonein none bg-center" id="bloc-3">
 	<div class="container bloc-md-lg bloc-sm">
 		<div class="row">
-			<div class="col-md-4 text-start mb-5 col-lg-3 align-self-start">
+			<div class="col-md-4 text-start mb-5 align-self-start col-lg-4">
 				<div>
 					<div class="mt-lg-5 mb-lg-4 ms-lg-4 me-lg-4 mb-3 mt-4">
 						<img src="img/lazyload-ph.png" data-src="img/icon1.svg" class="img-fluid mx-auto d-block img-style lazyload" alt="icon1" width="94" height="100">
@@ -328,7 +328,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-md-4 text-start mb-5 col-lg-3 align-self-start">
+			<div class="col-md-4 text-start mb-5 align-self-start col-lg-4">
 				<div>
 					<div class="mt-lg-5 mb-lg-4 ms-lg-4 me-lg-4 mb-3">
 						<img src="img/lazyload-ph.png" data-src="img/icon2.svg" class="img-fluid mx-auto d-block img-bloc-3-style lazyload" alt="icon1" width="103" height="100">
@@ -340,7 +340,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-md-4 text-start mb-5 col-lg-3 align-self-start">
+			<div class="col-md-4 text-start mb-5 align-self-start col-lg-4">
 				<div>
 					<div class="mt-lg-5 mb-lg-4 ms-lg-4 me-lg-4 mb-3">
 						<img src="img/lazyload-ph.png" data-src="img/icon3.svg" class="img-fluid mx-auto d-block img-6-style lazyload" alt="icon1" width="100" height="100">
@@ -350,7 +350,9 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-md-4 text-start mb-5 col-lg-3 align-self-start">
+		</div>
+		<div class="row">
+			<div class="col-md-4 text-start mb-5 align-self-start col-lg-4">
 				<div>
 					<div class="mt-lg-5 mb-lg-4 ms-lg-4 me-lg-4 mb-3">
 						<img src="img/lazyload-ph.png" data-src="img/iconpostulantes.svg" class="img-fluid mx-auto d-block img-6-style lazyload" alt="icon1" width="100" height="100">
@@ -360,12 +362,17 @@
 					</div>
 				</div>
 			</div>
-		</div>
-		<div class="row">
-			<div class="col-md-4 text-start mb-5 align-self-start col-lg-12">
+			<div class="col-md-4 text-start mb-5 align-self-start col-lg-4">
 				<div class="text-lg-center">
 					<div class="mt-lg-5 mb-lg-4 ms-lg-4 me-lg-4 mb-3 mt-4 text-lg-center">
-						<img src="img/lazyload-ph.png" data-src="img/icon1.svg" class="img-fluid mx-auto d-block img-style lazyload " alt="icon1" width="94" height="100">
+						<img src="img/lazyload-ph.png" data-src="img/iconpostulantes.svg" class="img-fluid mx-auto d-block img-style lazyload" alt="icon1" width="100" height="100">
+					</div><a href="postulantes_seleccionados.pdf" class="btn btn-c-6341 btn-sm w-100" target="_blank"><span class="fa fa-download float-lg-end icon-314 icon-spacer"></span>Postulantes Seleccionados</a>
+				</div>
+			</div>
+			<div class="col-md-4 text-start mb-5 align-self-start col-lg-4">
+				<div class="text-lg-center">
+					<div class="mt-lg-5 mb-lg-4 ms-lg-4 me-lg-4 mb-3 mt-4 text-lg-center">
+						<img src="img/lazyload-ph.png" data-src="img/icon1.svg" class="img-fluid mx-auto d-block img-style lazyload" alt="icon1" width="94" height="100">
 					</div><a href="boletin_informativo_evaluacion_de_postulados.pdf" class="btn btn-c-6341 btn-sm" target="_blank"><span class="icon-spacer fa fa-download float-lg-end icon-314"></span>Boletín informativo evaluación de postulados</a>
 				</div>
 			</div>
@@ -414,7 +421,7 @@
 			<div class="col-md-6 col-lg-7 align-self-start">
 				<ul class="text-list mt-4">
 					<li>
-						<p class="btn-resize-mode p-3-style">
+						<p class="btn-resize-mode p-3-style ">
 							Acceso gratuito al uso de las herramientas de la aplicación La Perla App para ofrecer sus servicios y producto durante seis (6) meses.
 						</p>
 					</li>
@@ -659,10 +666,10 @@
 <!-- Additional JS --><script src="./js/jquery.min.js"></script>
 
 
-<script src="./js/bootstrap.bundle.min.js?6855"></script>
-<script src="./js/blocs.min.js?2647"></script>
+<script src="./js/bootstrap.bundle.min.js?5475"></script>
+<script src="./js/blocs.min.js?6440"></script>
 <script src="./js/jqBootstrapValidation.js"></script>
-<script src="./js/formHandler.js?2685"></script>
+<script src="./js/formHandler.js?8411"></script>
 <script src="./js/lazysizes.min.js" defer></script>
 <!-- Additional JS END -->
 
