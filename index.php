@@ -9,8 +9,8 @@
 	<meta name="robots" content="index, follow">
     <link rel="shortcut icon" type="image/png" href="favicon.png">
     
-	<link rel="stylesheet" type="text/css" href="./css/bootstrap.min.css?4532">
-	<link rel="stylesheet" type="text/css" href="style.css?4513">
+	<link rel="stylesheet" type="text/css" href="./css/bootstrap.min.css?7960">
+	<link rel="stylesheet" type="text/css" href="style.css?5983">
 	<link rel="stylesheet" type="text/css" href="./css/all.min.css">
 	<link rel="stylesheet" type="text/css" href="./css/ionicons.min.css">
 	<link href='https://fonts.googleapis.com/css?family=Outfit:500,600,800,40&display=swap&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
@@ -323,8 +323,10 @@
 					<div class="mt-lg-5 mb-lg-4 ms-lg-4 me-lg-4 mb-3 mt-4">
 						<img src="img/lazyload-ph.png" data-src="img/icon1.svg" class="img-fluid mx-auto d-block img-style lazyload" alt="icon1" width="94" height="100">
 					</div>
-					<div class="mt-lg-2 mb-lg-2 ms-lg-4 me-lg-4">
-						<a href="TERMINOS_Y_CONDICIONES.pdf" class="btn btn-c-6341 float-end w-100 btn-sm" target="_blank"><span class="icon-spacer float-lg-end fa fa-download icon-3473"></span> Términos y condiciones</a>
+					<div class="mt-lg-2 mb-lg-2 ms-lg-4 me-lg-4 text-lg-center">
+						<div class="text-center">
+							<a href="TERMINOS_Y_CONDICIONES.pdf" class="btn btn-c-6341 float-end btn-sm w-100" target="_blank"><span class="icon-spacer float-lg-end fa fa-download icon-3473"></span> Términos y condiciones</a>
+						</div>
 					</div>
 				</div>
 			</div>
@@ -335,7 +337,7 @@
 					</div>
 					<div class="mt-lg-2 mb-lg-2 ms-lg-4 me-lg-4">
 						<div class="text-center">
-							<a href="Adenda-1.pdf" class="btn btn-c-6341 w-100 btn-sm" target="_blank"><span class="icon-spacer float-lg-end fa fa-download icon-3473"></span>Adenda</a>
+							<a href="Adenda-1.pdf" class="btn btn-c-6341 btn-sm w-100" target="_blank"><span class="icon-spacer float-lg-end fa fa-download icon-3473"></span>Adenda</a>
 						</div>
 					</div>
 				</div>
@@ -346,7 +348,7 @@
 						<img src="img/lazyload-ph.png" data-src="img/icon3.svg" class="img-fluid mx-auto d-block img-6-style lazyload" alt="icon1" width="100" height="100">
 					</div>
 					<div class="mt-lg-2 mb-lg-2 ms-lg-4 me-lg-4">
-						<a href="carta_de_compromiso.docx" class="btn btn-c-6341 w-100 btn-sm" target="_blank"><span class="icon-spacer float-lg-end fa fa-download icon-3473"></span>Carta de compromiso</a>
+						<a href="carta_de_compromiso.docx" class="btn btn-c-6341 btn-sm w-100" target="_blank"><span class="icon-spacer float-lg-end fa fa-download icon-3473"></span>Carta de compromiso</a>
 					</div>
 				</div>
 			</div>
@@ -358,22 +360,28 @@
 						<img src="img/lazyload-ph.png" data-src="img/iconpostulantes.svg" class="img-fluid mx-auto d-block img-6-style lazyload" alt="icon1" width="100" height="100">
 					</div>
 					<div class="mt-lg-2 mb-lg-2 ms-lg-4 me-lg-4">
-						<a href=" postulantes_aceptados.pdf" class="btn btn-c-6341 w-100 btn-sm" target="_blank"><span class="icon-spacer float-lg-end fa fa-download icon-3473"></span> Postulantes aceptados</a>
+						<a href=" postulantes_aceptados.pdf" class="btn btn-c-6341 btn-sm w-100" target="_blank"><span class="icon-spacer float-lg-end fa fa-download icon-3473"></span> Postulantes aceptados</a>
 					</div>
 				</div>
 			</div>
-			<div class="col-md-4 text-start mb-5 align-self-start col-lg-4 ">
+			<div class="col-md-4 text-start mb-5 align-self-start col-lg-4">
 				<div class="text-lg-center">
-					<div class="mt-lg-5 mb-lg-4 ms-lg-4 me-lg-4 mb-3 mt-4 text-lg-center">
+					<div class="mt-lg-5 mb-lg-4 ms-lg-4 me-lg-4 mb-3 mt-4 text-lg-center ">
 						<img src="img/lazyload-ph.png" data-src="img/icon1.svg" class="img-fluid mx-auto d-block img-style lazyload" alt="icon1" width="94" height="100">
-					</div><a href="boletin_informativo_evaluacion_de_postulados.pdf" class="btn btn-c-6341 btn-sm" target="_blank"><span class="icon-spacer fa fa-download float-lg-end icon-314"></span>Boletín informativo evaluación de postulados</a>
+					</div>
+					<div class="text-center">
+						<a href="boletin_informativo_evaluacion_de_postulados.pdf" class="btn btn-c-6341 btn-sm w-100" target="_blank"><span class="icon-spacer fa fa-download float-lg-end icon-314"></span>Boletín informativo evaluación de postulados</a>
+					</div>
 				</div>
 			</div>
 			<div class="col-md-4 text-start mb-5 align-self-start col-lg-4">
 				<div class="text-lg-center">
 					<div class="mt-lg-5 mb-lg-4 ms-lg-4 me-lg-4 mb-3 mt-4 text-lg-center">
 						<img src="img/lazyload-ph.png" data-src="img/iconpostulantes.svg" class="img-fluid mx-auto d-block img-style lazyload" alt="icon1" width="100" height="100">
-					</div><a href="postulantes_seleccionados.pdf" class="btn btn-c-6341 btn-sm w-100" target="_blank"><span class="fa fa-download float-lg-end icon-314 icon-spacer"></span>Postulantes Seleccionados</a>
+					</div>
+					<div class="text-center">
+						<a href="postulantes_seleccionados.pdf" class="btn btn-c-6341 btn-sm w-100" target="_blank"><span class="fa fa-download float-lg-end icon-314 icon-spacer"></span>Postulantes Seleccionados</a>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -666,10 +674,10 @@
 <!-- Additional JS --><script src="./js/jquery.min.js"></script>
 
 
-<script src="./js/bootstrap.bundle.min.js?7458"></script>
-<script src="./js/blocs.min.js?1978"></script>
+<script src="./js/bootstrap.bundle.min.js?4585"></script>
+<script src="./js/blocs.min.js?4255"></script>
 <script src="./js/jqBootstrapValidation.js"></script>
-<script src="./js/formHandler.js?2354"></script>
+<script src="./js/formHandler.js?6474"></script>
 <script src="./js/lazysizes.min.js" defer></script>
 <!-- Additional JS END -->
 
