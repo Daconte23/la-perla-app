@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>https://www.laperlaapp.com/desbloqueate/</loc>
-	<lastmod>2022-12-28</lastmod>
+	<lastmod>2023-01-11</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
@@ -40,14 +40,6 @@
 	<image:image>
 	<image:loc>https://www.laperlaapp.com/desbloqueate/img/mar_adentro_1.webp</image:loc>
 	<image:title>mar_adentro_1</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://www.laperlaapp.com/desbloqueate/img/smiling.jpg</image:loc>
-	<image:title>smiling</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://www.laperlaapp.com/desbloqueate/img/smiling.webp</image:loc>
-	<image:title>smiling</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>https://www.laperlaapp.com/desbloqueate/img/img_aliados.png</image:loc>
