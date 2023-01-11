@@ -531,6 +531,9 @@ url("img/mask_form_bg.webp") 2x);
 .redcolor{
 	color:var(--swatch-var-No-hay-Selección-Copy)!important;
 }
+.p-bloc-6-style{
+	font-size:20px;
+}
 
 /* = Colour
 -------------------------------------------------------------- */

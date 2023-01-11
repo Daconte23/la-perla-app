@@ -9,8 +9,8 @@
 	<meta name="robots" content="index, follow">
     <link rel="shortcut icon" type="image/png" href="favicon.png">
     
-	<link rel="stylesheet" type="text/css" href="./css/bootstrap.min.css?9866">
-	<link rel="stylesheet" type="text/css" href="style.css?3568">
+	<link rel="stylesheet" type="text/css" href="./css/bootstrap.min.css?2838">
+	<link rel="stylesheet" type="text/css" href="style.css?4695">
 	<link rel="stylesheet" type="text/css" href="./css/all.min.css">
 	<link rel="stylesheet" type="text/css" href="./css/ionicons.min.css">
 	<link href='https://fonts.googleapis.com/css?family=Outfit:500,600,800,40&display=swap&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
@@ -389,6 +389,29 @@
 </div>
 <!-- bloc-3 END -->
 
+<!-- bloc-6 -->
+<div class="bloc l-bloc nonein none rosa-bg" id="bloc-6">
+	<div class="container bloc-md bloc-lg-lg">
+		<div class="row">
+			<div class="col-md-6 text-start align-self-center">
+				<h3 class="mb-4 titles white-text text-center text-lg-start float-lg-none float-none mt-4">
+					Recorre las experiencias vividas durante la Convocatoria<br>
+				</h3>
+				<p class="white-text p-bloc-6-style">
+					Conoce cómo fue el desarrollo de las socializaciones del Programa de Fortalecimiento e Impulso de la Oferta Turística del Magdalena a los prestadores de servicios turísticos del departamento quienes aceptaron el reto de desbloquear su negocio.
+				</p>
+			</div>
+			<div class="col-md-6 text-start">
+				<div class="ratio ratio-16x9 mt-3 ">
+					<iframe class="embed-responsive-item lazyload" src="img/lazyload-ph.png" data-src="https://www.youtube.com/embed/RqSuggnJXTk" frameborder="0" allow="picture-in-picture" allowfullscreen="">
+					</iframe>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- bloc-6 END -->
+
 <!-- bloc-5 -->
 <div class="bloc l-bloc rosa-bg nonein none object-hidden" id="bloc-5">
 	<div class="container bloc-md">
@@ -465,30 +488,10 @@
 </div>
 <!-- bloc-5 END -->
 
-<!-- bloc-6 -->
-<div class="bloc l-bloc rosa-bg nonein none" id="bloc-6">
-	<div class="container bloc-md">
-		<div class="row">
-			<div class="col-md-6 text-start">
-				<div class="ratio ratio-16x9">
-					<iframe class="embed-responsive-item lazyload" src="img/lazyload-ph.png" data-src="https://www.youtube.com/embed/RqSuggnJXTk" frameborder="0" allow="picture-in-picture" allowfullscreen="">
-					</iframe>
-				</div>
-			</div>
-			<div class="col-md-6 text-start align-self-center">
-				<h3 class="mb-4 titles white-text text-center text-lg-start float-lg-none float-none mt-4">
-					Conoce los prestadores que ya están inscritos en el Programa de Fortalecimiento de La Perla App<br>
-				</h3>
-			</div>
-		</div>
-	</div>
-</div>
-<!-- bloc-6 END -->
-
 <!-- formulario -->
 <div class="bloc l-bloc bg-form nonein none" id="formulario">
 	<div class="container bloc-lg bloc-md-lg">
-		<div class="row ">
+		<div class="row">
 			<div class="col-md-6 text-start align-self-center">
 				<p class="mb-4 titles-form p-style mb-lg-1">
 					¿Tienes dudas sobre la convocatoria?<br>
@@ -677,10 +680,10 @@
 <!-- Additional JS --><script src="./js/jquery.min.js"></script>
 
 
-<script src="./js/bootstrap.bundle.min.js?1118"></script>
-<script src="./js/blocs.min.js?1127"></script>
+<script src="./js/bootstrap.bundle.min.js?4246"></script>
+<script src="./js/blocs.min.js?5342"></script>
 <script src="./js/jqBootstrapValidation.js"></script>
-<script src="./js/formHandler.js?4817"></script>
+<script src="./js/formHandler.js?2629"></script>
 <script src="./js/lazysizes.min.js" defer></script>
 <!-- Additional JS END -->
 
